@@ -1,32 +1,48 @@
-# Diabetes-Prediction
-#Authors: Prajit, Anubhav,.....
-#Email:
-#Brief: A machine Learning classifier model to predict Diabetes using a synthetic dataset of [NUMBER OF PATIENTS] patients. The model consists of [NUMBER OF FEATURES],namely:- 
-#Pregnancies: Number of times pregnant
-#Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
-#BloodPressure: Diastolic blood pressure (mm Hg)
-#SkinThickness: Triceps skin fold thickness (mm)
-#Insulin: 2-Hour serum insulin (mu U/ml)
-#BMI: Body mass index (weight in kg/(height in m)^2)
-#DiabetesPedigreeFunction: Diabetes pedigree function
-#Age: Age (years)
-#The model works on [X] ML algorithm to classify, Non- doabetic from diabetic.
+# Diabetes Prediction
 
+### Authors
+- Prajit
+- Anubhav  
+*(Add other authors)*
 
+### Contact
+- Email: [YourEmail@example.com]
 
+---
 
+## Project Overview
+This project implements a machine learning classifier model designed to predict the likelihood of diabetes in patients using a synthetic dataset of **[NUMBER OF PATIENTS]** patients. 
 
+The model is based on **[NUMBER OF FEATURES]** key features:
 
+1. **Pregnancies**: Number of times pregnant
+2. **Glucose**: Plasma glucose concentration (mg/dL) after 2 hours in an oral glucose tolerance test
+3. **Blood Pressure**: Diastolic blood pressure (mm Hg)
+4. **Skin Thickness**: Triceps skin fold thickness (mm)
+5. **Insulin**: 2-Hour serum insulin (μU/ml)
+6. **BMI**: Body mass index (kg/m²)
+7. **Diabetes Pedigree Function**: A function that scores the likelihood of diabetes based on family history
+8. **Age**: Age of the patient (years)
 
+The model uses **[X]** machine learning algorithm(s) to classify patients as either diabetic or non-diabetic.
 
+---
 
+## Getting Started
+### Prerequisites
+- Python 3.x
+- Required Libraries: 
+  - NumPy
+  - Pandas
+  - Scikit-learn
+  - Matplotlib (for visualizations)
 
-
-
-#References
-[1] James, D.E., Vimina, E.R. (2022). Machine Learning-Based Early Diabetes Prediction. In: Raj, J.S., Palanisamy, R., Perikos, I., Shi, Y. (eds) Intelligent Sustainable Systems. Lecture Notes in Networks and Systems, vol 213. Springer, Singapore. https://doi.org/10.1007/978-981-16-2422-3_52
-[2]Larabi-Marie-Sainte S, Aburahmah L, Almohaini R, Saba T. Current Techniques for Diabetes Prediction: Review and Case Study. Applied Sciences. 2019; 9(21):4604. https://doi.org/10.3390/app9214604
-[3]Mohsen, F., Al-Absi, H.R.H., Yousri, N.A. et al. A scoping review of artificial intelligence-based methods for diabetes risk prediction. npj Digit. Med. 6, 197 (2023). https://doi.org/10.1038/s41746-023-00933-5
-[4]Ismail, L., Materwala, H., Tayefi, M. et al. Type 2 Diabetes with Artificial Intelligence Machine Learning: Methods and Evaluation. Arch Computat Methods Eng 29, 313–333 (2022). https://doi.org/10.1007/s11831-021-09582-x
-[5]https://doi.org/10.1371/journal.pone.0310801
-[6]https://doi.org/10.3390/app9214604
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/diabetes-prediction.git
+1. James, D.E., Vimina, E.R. (2022). Machine Learning-Based Early Diabetes Prediction. In: Raj, J.S., Palanisamy, R., Perikos, I., Shi, Y. (eds) Intelligent Sustainable Systems. Lecture Notes in Networks and Systems, vol 213. Springer, Singapore. DOI
+2. Larabi-Marie-Sainte, S., Aburahmah, L., Almohaini, R., Saba, T. (2019). Current Techniques for Diabetes Prediction: Review and Case Study. Applied Sciences, 9(21):4604. DOI
+3. Mohsen, F., Al-Absi, H.R.H., Yousri, N.A. et al. (2023). A scoping review of artificial intelligence-based methods for diabetes risk prediction. npj Digital Medicine, 6, 197. DOI
+4. Ismail, L., Materwala, H., Tayefi, M. et al. (2022). Type 2 Diabetes with Artificial Intelligence Machine Learning: Methods and Evaluation. Archives of Computational Methods in Engineering, 29, 313–333. DOI
+5. Add more references as needed
