@@ -12,7 +12,7 @@
 ---
 
 ## Project Overview
-This project implements a machine learning classifier model designed to predict the likelihood of diabetes in patients using a synthetic dataset of **769** patients. 
+This project implements a machine learning classifier model designed to predict the likelihood of diabetes in patients using a synthetic dataset of **768** patients. 
 
 The model is based on **8** key features:
 
