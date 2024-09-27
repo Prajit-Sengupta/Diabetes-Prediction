@@ -2,8 +2,9 @@
 
 ### Authors
 - Prajit
-- Anubhav  
-*(Add other authors)*
+- Anubhav
+- Sana
+- Lina 
 
 ### Contact
 - Email: [YourEmail@example.com]
