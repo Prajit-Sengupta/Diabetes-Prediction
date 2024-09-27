@@ -13,7 +13,7 @@
 ## Project Overview
 This project implements a machine learning classifier model designed to predict the likelihood of diabetes in patients using a synthetic dataset of **[NUMBER OF PATIENTS]** patients. 
 
-The model is based on **[NUMBER OF FEATURES]** key features:
+The model is based on **769** key features:
 
 1. **Pregnancies**: Number of times pregnant
 2. **Glucose**: Plasma glucose concentration (mg/dL) after 2 hours in an oral glucose tolerance test
